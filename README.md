@@ -7,9 +7,9 @@
 💻 I'm currently learning JavaScript, HTML5, CSS3, Java.  
 
 ## 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-ecastro&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-ecastro&layout=compact&langs_count=7&theme=jolly"/>
+<div>
+    <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api?username=leticia-ecastro&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-ecastro&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
