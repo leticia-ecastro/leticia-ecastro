@@ -10,7 +10,6 @@
 
 <h3 align="left">💬 Connect with me:</h3>
 <p align="left">
-  <a href="mailto:leticiacastro382@gmail.com" alt="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=""mailto:leticiacastro382@gmail.com" alt="Gmail" height="30"/></a>
   <a href="https://linkedin.com/in/leticia-ecastro" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-ecastro" height="30"/></a>
   <a href="https://instagram.com/leticia_ecastro" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/leticia_ecastro" height="30"/></a>
 </p> 
