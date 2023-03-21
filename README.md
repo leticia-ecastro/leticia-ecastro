@@ -15,7 +15,7 @@
 </p> 
 
 #### <h3 align="left">🧠 Learning:</h3>
-[![Learning](https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,js,html,css,cs,dotnet&theme=light)](https://skillicons.dev)
 
 <h3 align="left">🛠 Tools/IDE:</h3>
 <div>
