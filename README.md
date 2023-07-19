@@ -1,4 +1,3 @@
-<br/>
 
 <h1 align="center">Hi 🖖, I'm Letícia Castro!</h1>
 
