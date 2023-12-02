@@ -20,6 +20,7 @@
 <div>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1976d2&labelColor=0D1117" height="30">
   <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=652076&labelColor=0D1117" height="30">
+  <img src="https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=Eclipse&logoColor=C8A2C8&labelColor=0D1117" height="30">
   <img src="https://img.shields.io/badge/-Geany-0D1117?style=for-the-badge&logo=Geany&logoColor=C8A2C8&labelColor=0D1117" height="30">
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" height="30">
 </div>
