@@ -8,7 +8,7 @@
   <br/>
   
   #### <h3>🧠 Learning:</h3>
-  [![Learning](https://skillicons.dev/icons?i=java,mysql,git,js,html,css&theme=light)](https://skillicons.dev)
+  [![Learning](https://skillicons.dev/icons?i=java,mysql,git,github,js,html,css&theme=light)](https://skillicons.dev)
   
   <br/>
   
