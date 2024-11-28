@@ -5,11 +5,13 @@
 
 <div align="center">
   <h3> :sparkles: Aprendendo:</h3>
-      <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-      <img align="center" src="https://img.shields.io/badge/sql-1E90FF?style=for-the-badge&logo=sql&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/R-0052CC?style=for-the-badge&logo=r&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/sql-1E90FF?style=for-the-badge&logo=sql&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+      
+      
   
   <br/>
   <br/>
